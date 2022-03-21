@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on **iOS/Android app development**
 
-- 🌱 I’m currently learning **Javscript**
 
-- 💬 Ask me about **iOS/Android app development**
+- 💬 Ask me about **Anything**
 
 <h4 align="left">Contact:</h4>
 
